@@ -1,11 +1,4 @@
 # Match Roomate
-## Aim
-- ksdjfklksjfd
-- sflskjflkd
-- sdlfkjalsdf
-
-## Screen
-- sdlkafj;aslkdfj
-
-## How to use
-- lksdjflkasjdf
+## Objective
+- Accepts user input through a web form
+- Add users' input into the SQL server
